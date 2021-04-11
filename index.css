@@ -1,0 +1,11 @@
+/* .value {
+  border: 1px;
+  border-radius: 5%;
+  background-color: black;
+  color: white;
+} */
+.timer {
+  display: flex;
+  color: tomato;
+  width: 250px;
+}
